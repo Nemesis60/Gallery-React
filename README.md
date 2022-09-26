@@ -6,6 +6,6 @@ Desktop
 
 Mobile
 
-![gallery-mobile](https://user-images.githubusercontent.com/99365579/192366590-b391b3b5-1a3c-4ae3-819a-e177acf87347.jpeg)
+![gallery-mobile](https://user-images.githubusercontent.com/99365579/192369800-0ab31893-b208-4f2a-a965-e05c5d1103cf.png)
 
 I created this referenced in devchallenges
