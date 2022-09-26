@@ -50,6 +50,9 @@
     color: #9c9898;
 }
 @media screen and (max-width: 768px) {
+    .header {
+        margin-left: 9px;
+    }
     .profile img {
         max-width: 130px;
         max-height: 130px;
